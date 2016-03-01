@@ -1,6 +1,6 @@
 name: Rexfords
 favicon: null
-layout_spectrum: 0.9058391767637309
+layout_spectrum: 0.24492
 typography_spectrum: 0.292353280060511
 cta:
   domain: null
@@ -24,7 +24,7 @@ color:
   brandStrength: 0.600694224534996
   lightness: 0.033701029784501624
   saturation: 0.29437921506503173
-  rhythmicContrast: 0.42300674811119066
+  rhythmicContrast: 0.5
 purpose:
   - name: null
     item: null
